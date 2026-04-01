@@ -8,9 +8,7 @@ My work focuses on **AI agents**, **human-in-the-loop automation**, and **compli
 - Multi‑turn conversational systems powered by **LLMs**
 ## 📫 Get in Touch
 -📫 You can reach me at: sayedsofy181232@gmail.com
-- 📄 CV: [cv.pdf](https://github.com/user-attachments/files/24423920/cv.pdf)
 
-- 
 ### 🚀 Featured Projects
 
 #### Enterprise AI Agents for HR Automation & Compliance
